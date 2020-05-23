@@ -12,7 +12,7 @@ export class Apartado1Component implements OnInit {
   apartado1 : any=[
     new Apartado1 (1, 'Juanito'),
     new Apartado1 (2, 'Pepito'),
-    new Apartado1 (3, 'Fulanito'),
+    new Apartado1 (3, 'Fulanito')
   ]
 
 
